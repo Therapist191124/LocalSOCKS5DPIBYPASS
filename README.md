@@ -84,6 +84,14 @@ Download and install both.
 ### Add Custom profile :
 
 Advanced plugin >>> Choose ByeDPI >>> Enable manual mode >>> Edit options :
+![2025-02-20_11-46-29](https://github.com/user-attachments/assets/3c301877-ac72-4d3e-b124-a2cf9994b0e9)
+![2025-02-20_11-47-08](https://github.com/user-attachments/assets/6fe0be7a-088f-461c-a2eb-40720d216a2b)
+![2025-02-20_11-47-46](https://github.com/user-attachments/assets/451bab7d-a206-4e6c-90f1-7ddf2ba43fc7)
+![2025-02-20_11-48-26](https://github.com/user-attachments/assets/11ef6171-c662-40ed-86dd-5d5db4b4872d)
+![2025-02-20_11-48-51](https://github.com/user-attachments/assets/a96d1326-fdff-4f35-a87a-e21b54b8c1a3)
+![2025-02-20_11-50-33](https://github.com/user-attachments/assets/ab728494-d7c4-40ff-914d-21b18428ec69)
+![2025-02-20_11-51-10](https://github.com/user-attachments/assets/10d25b15-6cd2-4712-910a-89e95fbb9372)
+
 ```bash
 --fake -2 --tls-sni Ea.com --tlsrec 6+s --tlsrec 27+s
 ```
