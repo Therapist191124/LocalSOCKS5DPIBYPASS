@@ -34,7 +34,7 @@ Download them and unzip.
 ### Steps :
 #### 1. ByeDPI.
 1. Go to ByeDPI folder.
-2. Run service_install.bat and it will be istalled automatically.
+2. Run service_install.bat (Run as administrator) and it will be istalled automatically.
 3. Find byedpi.bat file and edit it (Open as notepad).
    ![2025-02-20_09-32-25](https://github.com/user-attachments/assets/ef0df219-8044-43e1-913a-0d96de7c1c2b)
 4. Replace the existing parameter with this one :
