@@ -23,7 +23,7 @@ Local SOCKS5 DPI BYPASS.
 ## PC
 ### Requirements
 
-[ByeDPI](https://github.com/hufrea/byedpi).
+[ByeDPI](https://github.com/hufrea/byedpi) to create the server. 
 
 [Nekoray](https://github.com/MatsuriDayo/nekoray).
 
