@@ -4,6 +4,14 @@ Local SOCKS5 DPI BYPASS.
 ## Is it Working :
 ![2025-02-20_10-17-27](https://github.com/user-attachments/assets/517212a0-4bc7-4a2a-9692-deeaeaf835b0)
 
+## Before You start:
+- As a local proxy, it doesn't require complex setup or external infrastructure.
+- End-to-End Encryption: It does not inherently provide encryption. Users should combine it with secure protocols like HTTPS or VPNs for comprehensive protection.
+- Effective Against DPI Filters: Successfully bypasses many forms of network-level filtering and throttling.
+- Customizable Options: Offers fine-grained control over how traffic is obfuscated, allowing users to adapt to different blocking mechanisms.
+- Obfuscating Traffic: It modifies the structure of network packets to confuse DPI systems, making it harder for them to identify and block specific protocols or content.
+- Maintaining Privacy: By altering packet headers and payloads, it prevents ISPs or network administrators from inspecting user activity in detail.
+
 ## PC
 ### Requirements
 
