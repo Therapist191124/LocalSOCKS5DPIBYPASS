@@ -67,7 +67,9 @@ socks5://127.0.0.1:1080
 ### Confirmation :
 1. Check the opened CMD terminal (Byedpi.bat), and make sure it is not giving you any error.
    ![2025-02-20_09-47-46](https://github.com/user-attachments/assets/6409b552-cbf7-4f1c-a11f-12ebe0af576f)
-2. check the traffics in Nekoray.
+
+   (Working)
+3. check the traffics in Nekoray.
    ![2025-02-20_09-49-26](https://github.com/user-attachments/assets/6c076d0a-da4d-4842-a49f-9fd38c338f12)
 
 
