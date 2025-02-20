@@ -80,6 +80,7 @@ Download and install both.
    ![2025-02-20_10-15-33](https://github.com/user-attachments/assets/c2e9c114-dd78-4626-88e8-59f6f39eb0c3)
    ![2025-02-20_10-16-11](https://github.com/user-attachments/assets/4897f9bf-f0d2-4cb3-a7bf-aae0414c89ce)
 
+- the mentioned file is [Here](https://github.com/Therapist191124/LocalSOCKS5DPIBYPASS/releases/download/Custom_Setting/nekobox_backup_Feb.20.2025.10_01_51.AM.json)
 
 ### Add Custom profile :
 
