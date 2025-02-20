@@ -94,6 +94,7 @@ Download and install both.
    ![2025-02-20_10-14-36](https://github.com/user-attachments/assets/980f4ab1-c070-49d6-a5cf-25aa36a1f08f)
    
 3. Choose the desired profile and run it.
+   
    ![2025-02-20_10-15-33](https://github.com/user-attachments/assets/c2e9c114-dd78-4626-88e8-59f6f39eb0c3)
    ![2025-02-20_10-16-11](https://github.com/user-attachments/assets/4897f9bf-f0d2-4cb3-a7bf-aae0414c89ce)
 
