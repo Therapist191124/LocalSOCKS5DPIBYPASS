@@ -88,6 +88,7 @@ Download and install both.
 ### Steps :
 1. Open Nekobox.
 2. Go to Tools >>> Backup >>> Import from file (Import the custom settings I made).
+
    ![2025-02-20_10-11-51](https://github.com/user-attachments/assets/89c51148-ca9b-4bdb-9722-4f1bd75af68e)
    ![2025-02-20_10-12-14](https://github.com/user-attachments/assets/56b39fa6-39ff-4f76-b5f5-092609af1234)
    ![2025-02-20_10-12-39](https://github.com/user-attachments/assets/0e4bc22c-8880-4ea7-aca7-3fe0a7cc9071)
